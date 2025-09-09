@@ -49,8 +49,7 @@ It also provides results in multiple formats:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/bhatt-saahab/testing-project-.git
-cd testing-project-
+
 ```
 
 ### 2. Install Dependencies
